@@ -1,17 +1,17 @@
 
-# **energy One-Word Domain Names**: Daily Updated List of Available Domains
+# **Energy One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available energy one-word domains.
+This regularly updated dataset includes the latest available Energy one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/energy-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **energy one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=energy&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **Energy one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Energy&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word energy domains.
+- **Domain Name**: High-quality, single-word Energy domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -21,44 +21,44 @@ This regularly updated dataset includes the latest available energy one-word dom
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain           | status    | attractiveness | demand | length | created          | expires          | registrar                                                          | sectors                               |
-| ---------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ------------------------------------------------------------------ | ------------------------------------- |
-| one.energy       | resell    | 132            | 43     | 3      | 25/04/2024 15:15 | 25/04/2026 15:15 | Porkbun LLC                                                        | Business,General,Media,Technology     |
-| second.energy    | available | 120            | 23     | 6      |                  |                  |                                                                    | General,Mathematics                   |
-| complete.energy  | resell    | 120            | 21     | 8      | 30/01/2025 15:35 | 30/01/2026 15:35 | Sav.com, LLC                                                       | Manufacturing,Retail,Technology       |
-| wizard.energy    | resell    | 118            | 42     | 6      | 28/01/2025 04:18 | 28/01/2026 04:18 | Spaceship, Inc.                                                    | Entertainment,Media,Technology        |
-| flat.energy      | available | 116            | 23     | 4      |                  |                  |                                                                    | Construction,Real Estate              |
-| tenth.energy     | available | 116            | 7      | 5      |                  |                  |                                                                    | Mathematics                           |
-| tonic.energy     | expiring  | 114            | 22     | 5      | 22/08/2018 13:43 | 22/08/2025 13:43 | GoDaddy.com, LLC                                                   | Health and Fitness,Medicine,Science   |
-| zero.energy      | resell    | 112            | 49     | 4      | 27/04/2024 15:15 | 27/04/2026 15:15 | Porkbun LLC                                                        | Mathematics                           |
-| acute.energy     | available | 112            | 9      | 5      |                  |                  |                                                                    | Mathematics,Medicine,Science          |
-| abiding.energy   | available | 106            | 5      | 7      |                  |                  |                                                                    | General,Religion                      |
-| expert.energy    | resell    | 104            | 26     | 6      | 17/10/2019 13:21 | 17/10/2025 13:21 | Epik LLC                                                           | Business,Education,Technology         |
-| extra.energy     | resell    | 102            | 26     | 5      | 17/03/2025 15:15 | 17/03/2026 15:15 | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | Fashion,Retail,Technology             |
-| captive.energy   | available | 102            | 14     | 7      |                  |                  |                                                                    | Entertainment,Hospitality,Technology  |
-| absent.energy    | available | 102            | 8      | 6      |                  |                  |                                                                    | Business,Education,Technology         |
-| eight.energy     | available | 102            | 23     | 5      |                  |                  |                                                                    | General,Mathematics                   |
-| abrupt.energy    | available | 100            | 3      | 6      |                  |                  |                                                                    | Medicine,Science                      |
-| eighth.energy    | available | 100            | 6      | 6      |                  |                  |                                                                    | Mathematics                           |
-| sixth.energy     | available | 100            | 8      | 5      |                  |                  |                                                                    | Mathematics                           |
-| adjunct.energy   | available | 100            | 5      | 7      |                  |                  |                                                                    | Education                             |
-| crack.energy     | available | 100            | 20     | 5      |                  |                  |                                                                    | Sports                                |
-| remove.energy    | available | 100            | 13     | 6      |                  |                  |                                                                    | Construction,Manufacturing,Technology |
-| ninth.energy     | available | 100            | 9      | 5      |                  |                  |                                                                    | Mathematics                           |
-| genius.energy    | resell    | 98             | 46     | 6      | 09/11/2024 15:16 | 09/11/2025 15:16 | Sav.com, LLC - 43                                                  | Arts,Education,Technology             |
-| alamode.energy   | available | 96             | 12     | 9      |                  |                  |                                                                    | Fashion                               |
-| doable.energy    | available | 96             | 9      | 6      |                  |                  |                                                                    | Business,Education,Technology         |
-| forgiving.energy | available | 96             | 3      | 9      |                  |                  |                                                                    | Healthcare,Religion                   |
-| abject.energy    | available | 94             | 7      | 6      |                  |                  |                                                                    | Humanities                            |
-| virtuoso.energy  | available | 94             | 16     | 8      |                  |                  |                                                                    | Arts,Entertainment                    |
-| adequate.energy  | available | 94             | 9      | 8      |                  |                  |                                                                    | Education,Healthcare,Technology       |
-| adjective.energy | available | 92             | 5      | 9      |                  |                  |                                                                    | Education                             |
+| domain          | status    | attractiveness | demand | length | created          | expires          | registrar                                              | sectors                               |
+| --------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ------------------------------------------------------ | ------------------------------------- |
+| sunlight.gg     | available | 106            | 88     | 8      |                  |                  |                                                        | Energy,Environment,Health and Fitness |
+| sunlight.tech   | available | 106            | 88     | 8      |                  |                  |                                                        | Energy,Environment,Health and Fitness |
+| sunlight.org    | resell    | 106            | 88     | 8      | 07/05/2001 10:31 | 07/05/2026 10:31 | PDR Ltd. d/b/a PublicDomainRegistry.com                | Energy,Environment,Health and Fitness |
+| sunlight.ninja  | available | 106            | 88     | 8      |                  |                  |                                                        | Energy,Environment,Health and Fitness |
+| sunlight.net    | expiring  | 106            | 88     | 8      | 06/07/2013 18:09 | 06/07/2025 18:09 | Regional Network Information Center, JSC dba RU-CENTER | Energy,Environment,Health and Fitness |
+| sunlight.co     | expiring  | 106            | 88     | 8      | 21/07/2010 22:06 | 20/07/2025 23:59 | Spaceship, Inc.                                        | Energy,Environment,Health and Fitness |
+| sunlight.zone   | available | 106            | 88     | 8      |                  |                  |                                                        | Energy,Environment,Health and Fitness |
+| sunlight.expert | available | 106            | 88     | 8      |                  |                  |                                                        | Energy,Environment,Health and Fitness |
+| sunlight.me     | expiring  | 106            | 88     | 8      | 23/07/2008 22:33 | 23/07/2025 22:33 | GoDaddy.com, LLC                                       | Energy,Environment,Health and Fitness |
+| upstream.online | available | 104            | 84     | 8      |                  |                  |                                                        | Energy,Environment,Technology         |
+| upstream.store  | expired   | 104            | 84     | 8      | 03/05/2023 17:36 | 03/05/2025 23:59 | Go Daddy, LLC                                          | Energy,Environment,Technology         |
+| upstream.gg     | resell    | 104            | 84     | 8      |                  |                  | humbly, LLC (http://park.io)                           | Energy,Environment,Technology         |
+| upstream.co     | resell    | 104            | 84     | 8      | 04/10/2019 17:00 | 04/10/2025 17:00 | GoDaddy.com, LLC                                       | Energy,Environment,Technology         |
+| upstream.at     | available | 104            | 84     | 8      |                  |                  |                                                        | Energy,Environment,Technology         |
+| upstream.zone   | available | 104            | 84     | 8      |                  |                  |                                                        | Energy,Environment,Technology         |
+| upstream.so     | sold      | 104            | 84     | 8      | 12/11/2022 20:57 | 12/11/2029 20:57 | NameCheap                                              | Energy,Environment,Technology         |
+| upstream.app    | resell    | 104            | 84     | 8      | 06/06/2022 08:08 | 06/06/2026 08:08 | Porkbun LLC                                            | Energy,Environment,Technology         |
+| exhaust.ninja   | available | 101            | 88     | 7      |                  |                  |                                                        | Automotive,Energy,Transportation      |
+| exhaust.cloud   | available | 101            | 88     | 7      |                  |                  |                                                        | Automotive,Energy,Transportation      |
+| exhaust.com     | resell    | 101            | 88     | 7      | 04/04/2000 10:31 | 04/04/2026 10:31 | GoDaddy Online Services Cayman Islands Ltd.            | Automotive,Energy,Transportation      |
+| exhaust.gg      | available | 101            | 88     | 7      |                  |                  |                                                        | Automotive,Energy,Transportation      |
+| exhaust.at      | available | 101            | 88     | 7      |                  |                  |                                                        | Automotive,Energy,Transportation      |
+| exhaust.so      | available | 101            | 88     | 7      |                  |                  |                                                        | Automotive,Energy,Transportation      |
+| exhaust.zone    | available | 101            | 88     | 7      |                  |                  |                                                        | Automotive,Energy,Transportation      |
+| exhaust.site    | available | 101            | 88     | 7      |                  |                  |                                                        | Automotive,Energy,Transportation      |
+| exhaust.space   | available | 101            | 88     | 7      |                  |                  |                                                        | Automotive,Energy,Transportation      |
+| exhaust.store   | available | 101            | 88     | 7      |                  |                  |                                                        | Automotive,Energy,Transportation      |
+| power.space     | available | 98             | 96     | 5      |                  |                  |                                                        | Business,Energy,General,Technology    |
+| power.store     | available | 98             | 96     | 5      |                  |                  |                                                        | Business,Energy,General,Technology    |
+| power.so        | resell    | 98             | 96     | 5      | 21/06/2020 05:03 | 21/06/2026 05:03 | NameCheap                                              | Business,Energy,General,Technology    |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=energy&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Energy&utm_content=description.bottom)
 
 Search, filter and download the full database of one word domains.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/energy-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=energy&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/energy-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Energy&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
