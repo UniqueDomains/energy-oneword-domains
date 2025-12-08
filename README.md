@@ -1,62 +1,62 @@
 
-# List of .ENERGY One Word Domain Names (4,122)
+# List of Energy One Word Domain Names (11,049)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/energy-oneword-domains.svg?style=flat)]() [![4,122 .ENERGY one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-4%2C122-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/Energy-oneword-domains.svg?style=flat)]() [![11,049 Energy one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-11%2C049-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
-We constantly sweep the web to catalog the highest potential .ENERGY one-word domains still available to buy.
+We constantly sweep the web to catalog the highest potential Energy one-word domains still available to buy.
 
-This dataset contains 4,357 .ENERGY one word domains with availability, attractiveness and demand scores.
+This dataset contains 1,000 Energy one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [.ENERGY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=energy-oneword-domains&utm_content=description.top) (4,122) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [Energy one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Energy-oneword-domains&utm_content=description.top) (11,049) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/energy-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/energy-oneword-domains/blob/main/energy.csv"><b>⬇️ CSV (4.36K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/energy-oneword-domains/blob/main/energy.json"><b>⬇️ JSON (4.36K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=energy-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.12K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Energy-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Energy-oneword-domains/blob/main/Energy.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Energy-oneword-domains/blob/main/Energy.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Energy-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (11.05K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain            | Status    | Attract. | Demand | Length | Registrar                                                 | Created          | Expires          |
-| ----------------- | --------- | -------- | ------ | ------ | --------------------------------------------------------- | ---------------- | ---------------- |
-| abactinal.energy  | available | 50       | 1%     | 9      |                                                           |                  |                  |
-| abaft.energy      | available | 43       | 2%     | 5      |                                                           |                  |                  |
-| abandoned.energy  | available | 58       | 7%     | 9      |                                                           |                  |                  |
-| abashed.energy    | available | 60       | 2%     | 7      |                                                           |                  |                  |
-| abasic.energy     | available | 54       | 2%     | 6      |                                                           |                  |                  |
-| abatable.energy   | available | 54       | 1%     | 8      |                                                           |                  |                  |
-| abatic.energy     | available | 54       | 2%     | 6      |                                                           |                  |                  |
-| abaxial.energy    | available | 54       | 2%     | 7      |                                                           |                  |                  |
-| abbatial.energy   | available | 50       | 1%     | 8      |                                                           |                  |                  |
-| abc.energy        | resell    | 102      | 39%    | 3      | Global Domains International, Inc. DBA DomainCostClub.com | 25/01/2025 15:15 | 25/01/2026 15:15 |
-| abdicable.energy  | available | 50       | 1%     | 9      |                                                           |                  |                  |
-| abdominal.energy  | available | 82       | 5%     | 9      |                                                           |                  |                  |
-| abdominous.energy | available | 56       | 1%     | 10     |                                                           |                  |                  |
-| abducens.energy   | available | 54       | 1%     | 8      |                                                           |                  |                  |
-| abducent.energy   | available | 68       | 1%     | 8      |                                                           |                  |                  |
-| abducting.energy  | available | 50       | 1%     | 9      |                                                           |                  |                  |
-| abenaki.energy    | available | 82       | 3%     | 7      |                                                           |                  |                  |
-| aberdonian.energy | available | 68       | 1%     | 10     |                                                           |                  |                  |
-| aberrant.energy   | available | 74       | 7%     | 8      |                                                           |                  |                  |
-| abeyant.energy    | available | 56       | 2%     | 7      |                                                           |                  |                  |
-| abhorrent.energy  | available | 54       | 3%     | 9      |                                                           |                  |                  |
-| abide.energy      | available | 94       | 15%    | 5      |                                                           |                  |                  |
-| abiding.energy    | available | 106      | 5%     | 7      |                                                           |                  |                  |
-| abient.energy     | available | 54       | 1%     | 6      |                                                           |                  |                  |
-| ability.energy    | available | 92       | 16%    | 7      |                                                           |                  |                  |
-| abit.energy       | available | 66       | 12%    | 5      |                                                           |                  |                  |
-| abject.energy     | available | 94       | 8%     | 6      |                                                           |                  |                  |
-| abkhas.energy     | available | 68       | 1%     | 6      |                                                           |                  |                  |
-| abkhasian.energy  | available | 78       | 1%     | 9      |                                                           |                  |                  |
-| abkhaz.energy     | available | 82       | 2%     | 6      |                                                           |                  |                  |
+| Domain            | Status    | Attract. | Demand | Length | Registrar                                    | Created          | Expires          |
+| ----------------- | --------- | -------- | ------ | ------ | -------------------------------------------- | ---------------- | ---------------- |
+| power.ac          | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.accountants | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.actor       | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.adult       | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.airforce    | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.apartments  | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.archi       | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.army        | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.associates  | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.attorney    | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.audio       | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.auto        | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.autos       | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.baby        | resell    | 98       | 29%    | 5      | Xiamen ChinaSource Internet Service Co., Ltd | 18/11/2025 21:52 | 18/11/2026 23:59 |
+| power.band        | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.bar         | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.bargains    | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.bayern      | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.beauty      | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.berlin      | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.best        | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.bid         | resell    | 98       | 29%    | 5      | Porkbun                                      | 26/07/2019 14:41 | 26/07/2026 14:41 |
+| power.bike        | resell    | 98       | 29%    | 5      | Porkbun LLC                                  | 04/12/2017 11:57 | 04/12/2026 11:57 |
+| power.bingo       | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.bio         | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.black       | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.blog        | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.blue        | resell    | 98       | 29%    | 5      | Spaceship, Inc.                              | 17/04/2014 19:58 | 17/04/2026 19:58 |
+| power.bond        | available | 98       | 29%    | 5      |                                              |                  |                  |
+| power.boo         | available | 98       | 29%    | 5      |                                              |                  |                  |
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/energy-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/energy-oneword-domains/blob/main/energy.csv"><b>⬇️ CSV (4.36K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/energy-oneword-domains/blob/main/energy.json"><b>⬇️ JSON (4.36K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=energy-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.12K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Energy-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Energy-oneword-domains/blob/main/Energy.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Energy-oneword-domains/blob/main/Energy.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Energy-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (11.05K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -645,11 +645,11 @@ If you want to search & filters the complete database of [.ENERGY one word domai
 | Travel             | 10,248       | [Github](https://github.com/UniqueDomains/Travel-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)                 |
 | Utilities          | 9,832        | [Github](https://github.com/UniqueDomains/Utilities-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)              |
 
-# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=energy-oneword-domains&utm_content=description.bottom)
+# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Energy-oneword-domains&utm_content=description.bottom)
 
 Access the most complete and advanced database of one word domains.
 
 Spot short, memorable domain names that earn trust, dominate search engines, and appreciate over time.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/energy-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=energy-oneword-domains&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/Energy-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Energy-oneword-domains&utm_content=description.image)
         
