@@ -1,4 +1,24 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
+211c7c0c-07ce-48a4-852c-b7512bb79ddd,power.support,premium,98,28,5,,,
+b7cbcfcf-b447-40f5-baf1-25df98fa9dbf,power.surf,premium,98,28,5,,,
+2e8158c7-8e05-4405-970a-db18bd25ae0b,power.surgery,premium,98,28,5,,,
+050fc017-1652-4c56-bbe4-a27b6fd305bb,power.sydney,premium,98,28,5,,,
+586cec85-efdf-4d91-aeff-4d09be19bfa0,power.systems,premium,98,28,5,,,
+3d420cc3-a1f3-45eb-80ce-fc8841708309,power.talk,premium,98,28,5,,,
+fec5f446-30db-4cc2-8262-2b65ada80fae,power.tattoo,expired,98,28,5,"Spaceship, Inc.",02/10/2024 08:11,02/10/2025 08:11
+8870abf5-fcfa-4246-b222-5fa703ce8cd0,power.tax,premium,98,28,5,,,
+fc17d3d9-32f1-4096-9a13-9182cc3eb48f,power.taxi,premium,98,28,5,,,
+803f3097-c924-4831-a5eb-df76ed77653f,power.team,premium,98,28,5,,,
+2bf71c77-db7f-4205-95b6-bb7e5167f6ac,power.tennis,premium,98,28,5,,,
+ab3aa90d-129a-4986-a9f2-ba71326a19c7,power.theater,premium,98,28,5,,,
+577b4346-d2f7-4fd7-a520-564406881ca9,power.theatre,available,98,28,5,,,
+fbad14cb-f903-4d03-be37-b7efa0f43a04,power.tickets,available,98,28,5,,,
+6de42359-5f7d-4dd4-b90b-74e4384070bf,power.tienda,premium,98,28,5,,,
+ab7e5fc4-9709-4ab6-8cc0-f555c0541d81,power.tires,premium,98,28,5,,,
+7f74259d-4234-4b5d-a424-68744ed99927,power.today,premium,98,28,5,,,
+8940f7b5-be8b-47bf-895c-0ce4d7861052,power.tours,premium,98,28,5,,,
+8a883cbb-4317-49f7-980f-8871eaa2427a,power.town,premium,98,28,5,,,
+7ff22c22-0edf-4703-a174-8d2ba27abf04,power.toys,resell,98,28,5,"GoDaddy.com, LLC",02/11/2019 22:25,02/11/2026 22:25
 3cfc2975-8512-4044-981c-4d07ed8d2206,power.travel,premium,98,28,5,,,
 aa1c3446-0a66-4b34-a493-e92c10a653e8,power.tube,expired,98,28,5,"Latin American Telecom, LLC",08/11/2017 19:27,08/11/2025 19:27
 84a3798c-4663-4412-b01b-d025dfc871a6,power.university,premium,98,28,5,,,
@@ -332,26 +352,6 @@ a47f866d-7b2c-41f2-858b-816f27c172c1,power.storage,available,98,28,5,,,
 dea7794e-cf54-4235-b0e7-a8b9bd68e703,power.style,resell,98,28,5,united-domains GmbH,21/11/2023 11:19,21/11/2026 11:19
 d519fd63-e41d-4333-a051-d82a3c295c39,power.sucks,premium,98,28,5,,,
 5287183a-9256-433f-99a9-5a81ad1c1847,power.supplies,premium,98,28,5,,,
-211c7c0c-07ce-48a4-852c-b7512bb79ddd,power.support,premium,98,28,5,,,
-b7cbcfcf-b447-40f5-baf1-25df98fa9dbf,power.surf,premium,98,28,5,,,
-2e8158c7-8e05-4405-970a-db18bd25ae0b,power.surgery,premium,98,28,5,,,
-050fc017-1652-4c56-bbe4-a27b6fd305bb,power.sydney,premium,98,28,5,,,
-586cec85-efdf-4d91-aeff-4d09be19bfa0,power.systems,premium,98,28,5,,,
-3d420cc3-a1f3-45eb-80ce-fc8841708309,power.talk,premium,98,28,5,,,
-fec5f446-30db-4cc2-8262-2b65ada80fae,power.tattoo,expired,98,28,5,"Spaceship, Inc.",02/10/2024 08:11,02/10/2025 08:11
-8870abf5-fcfa-4246-b222-5fa703ce8cd0,power.tax,premium,98,28,5,,,
-fc17d3d9-32f1-4096-9a13-9182cc3eb48f,power.taxi,premium,98,28,5,,,
-803f3097-c924-4831-a5eb-df76ed77653f,power.team,premium,98,28,5,,,
-2bf71c77-db7f-4205-95b6-bb7e5167f6ac,power.tennis,premium,98,28,5,,,
-ab3aa90d-129a-4986-a9f2-ba71326a19c7,power.theater,premium,98,28,5,,,
-577b4346-d2f7-4fd7-a520-564406881ca9,power.theatre,available,98,28,5,,,
-fbad14cb-f903-4d03-be37-b7efa0f43a04,power.tickets,available,98,28,5,,,
-6de42359-5f7d-4dd4-b90b-74e4384070bf,power.tienda,premium,98,28,5,,,
-ab7e5fc4-9709-4ab6-8cc0-f555c0541d81,power.tires,premium,98,28,5,,,
-7f74259d-4234-4b5d-a424-68744ed99927,power.today,premium,98,28,5,,,
-8940f7b5-be8b-47bf-895c-0ce4d7861052,power.tours,premium,98,28,5,,,
-8a883cbb-4317-49f7-980f-8871eaa2427a,power.town,premium,98,28,5,,,
-7ff22c22-0edf-4703-a174-8d2ba27abf04,power.toys,resell,98,28,5,"GoDaddy.com, LLC",02/11/2019 22:25,02/11/2026 22:25
 b0cc7e1f-11c3-4f97-897e-4c4b06d8f2e6,electricity.at,sold,80,80,11,DomainQuadrat Marketing GmbH ( https://nic.at/registrar/581 ),,
 969d017f-911f-488f-bc52-d88418fbed3c,electricity.cloud,premium,80,80,11,,,
 44f4698d-d4b2-401b-a4e3-ae4f39df8c3f,electricity.dev,premium,80,80,11,,,
@@ -440,12 +440,12 @@ a9ab35a7-19af-404f-a681-937ca4b9ddd7,energy.club,resell,82,35,6,"GoDaddy.com, LL
 2f269410-c211-4930-843f-5d4451d54f98,energy.company,resell,82,35,6,"Name.com, Inc.",24/06/2015 19:07,24/06/2030 19:07
 2f0dcdb4-b1dd-4e6d-bcb3-d4940cf2217d,energy.condos,premium,82,35,6,,,
 b138cbec-5580-4a8b-97a1-020e4b05e65e,energy.consulting,premium,82,35,6,,,
-7037c75c-b47b-4a64-b951-1a34df4afbf8,energy.contact,expiring,82,35,6,Porkbun LLC,09/12/2020 16:00,09/12/2025 16:00
+7037c75c-b47b-4a64-b951-1a34df4afbf8,energy.contact,resell,82,35,6,Porkbun LLC,09/12/2020 16:00,09/12/2026 16:00
 ce284d19-5241-4ca1-be6c-69ac818d8acd,energy.contractors,premium,82,35,6,,,
 2d775213-e4be-454b-8a9c-acbd213be4cb,energy.cooking,premium,82,35,6,,,
 ace0e763-65ca-4d53-93f6-aed3cd742f22,energy.cool,resell,82,35,6,"DNSPod, Inc.",04/07/2015 06:19,04/07/2026 06:19
 7c8dde7c-3cd2-4c73-b703-b1da6b13b150,energy.country,available,82,35,6,,,
-6b359d24-d81d-44c8-8f00-91d9e003606f,energy.coupons,resell,82,35,6,"Sav.com, LLC",09/01/2025 17:10,09/01/2026 17:10
+6b359d24-d81d-44c8-8f00-91d9e003606f,energy.coupons,expiring,82,35,6,"Sav.com, LLC",09/01/2025 17:10,09/01/2026 17:10
 b0e130a6-788f-426f-a224-7fea6d706df2,energy.courses,premium,82,35,6,,,
 72a332c1-1777-4e2c-b049-8a0af41e174e,energy.credit,resell,82,35,6,Epik LLC,08/06/2017 17:52,08/06/2026 17:52
 5a827591-17f2-4e86-9e95-05b2f2a92455,energy.creditcard,premium,82,35,6,,,
@@ -459,13 +459,14 @@ c9954911-b5b7-4dcf-bde2-1d8c07a16fcf,energy.date,premium,82,35,6,,,
 e78ec044-fa8d-40d9-b43e-330d75e5d212,energy.day,premium,82,35,6,,,
 99d6bd67-3c7c-4f6b-b6ae-30d65f70fd8d,energy.deal,premium,82,35,6,,,
 e0ad0304-e4ff-427e-8627-05606a7eb94f,energy.dealer,premium,82,35,6,,,
-4ed93953-f867-46d1-a1f5-c0e836787c2a,energy.deals,expiring,82,35,6,"GoDaddy.com, LLC",11/12/2015 07:06,11/12/2025 07:06
+4ed93953-f867-46d1-a1f5-c0e836787c2a,energy.deals,sold,82,35,6,"GoDaddy.com, LLC",11/12/2015 07:06,11/12/2026 07:06
 1d0077b1-712d-41a4-b246-66486ad582e1,energy.degree,available,82,35,6,,,
 640cf246-6a34-4bef-b5bc-169800e84bc7,energy.democrat,available,82,35,6,,,
 79eaee31-4446-4b26-a311-b05c0a2b0c24,energy.dentist,premium,82,35,6,,,
 a2d7e7f6-346e-4d15-a094-e179bb67070a,energy.diamonds,available,82,35,6,,,
 e280710e-2750-416d-90ee-c14ff536c7e0,energy.diet,resell,82,35,6,Namecheap,22/01/2023 16:03,22/01/2026 23:59
 f6cc9d25-3aed-4dc1-a68b-e714aac370fe,energy.diy,premium,82,35,6,,,
+bf84483e-2efa-4ab0-9b82-70627044ead1,energy.doctor,resell,82,35,6,"GoDaddy.com, LLC",18/11/2018 16:06,18/11/2026 16:06
 800faa86-5506-41a4-9548-a5c737bb7dde,energy.dog,resell,82,35,6,"Sav.com, LLC",30/11/2024 17:14,30/11/2026 17:14
 5b0be9e6-2b06-4665-9ebc-8280b61d9331,energy.domains,premium,82,35,6,,,
 7b16f124-c90b-48fa-bc0b-3d6c1096879e,energy.download,premium,82,35,6,,,
@@ -504,7 +505,7 @@ c5e62439-98e5-4dd8-a347-6dad3d004bae,energy.futbol,available,82,35,6,,,
 55491f43-2789-4133-b487-56c0e8b25373,energy.gallery,premium,82,35,6,,,
 e1234b4b-cb16-4384-bc07-b54c5e3418e3,energy.game,premium,82,35,6,,,
 e28ed56f-a362-4ecf-8a96-f8699cdda29f,energy.games,resell,82,35,6,"DNSPod, Inc.",22/01/2021 07:45,22/01/2026 07:45
-2b37c849-3d4a-4e82-89d8-9f45e8a3e718,energy.garden,expiring,82,35,6,"eNom, LLC",19/12/2019 06:42,19/12/2025 06:42
+2b37c849-3d4a-4e82-89d8-9f45e8a3e718,energy.garden,sold,82,35,6,"eNom, LLC",19/12/2019 06:42,19/12/2026 06:42
 2941d1cc-1c5b-4ee9-99c1-bd32ff24e659,energy.gay,premium,82,35,6,,,
 443c46b4-4b3f-47ec-9da2-d60f3b231bc8,energy.gg,resell,82,35,6,"NameCheap, Inc (https://www.namecheap.com)",,
 b5cc1368-5b64-478d-a660-302c09e1883a,energy.gift,available,82,35,6,,,
@@ -539,7 +540,7 @@ bdff5c59-9816-42f7-a3dc-7c59e7dcf9a3,energy.investments,premium,82,35,6,,,
 6c685f19-af10-459b-977f-44d1f575f94f,energy.io,resell,82,35,6,"Spaceship, Inc.",29/01/2007 01:41,29/01/2026 01:41
 fb72a325-0972-46b4-a7af-dc5ee12d260c,energy.irish,available,82,35,6,,,
 fcfbed50-e7e2-4641-8297-99c6e123193a,energy.jetzt,available,82,35,6,,,
-dc7214a7-fc4c-4ba9-8cb4-ccad19946622,energy.jewelry,expiring,82,35,6,"GoDaddy.com, LLC",11/12/2015 16:23,11/12/2025 16:23
+dc7214a7-fc4c-4ba9-8cb4-ccad19946622,energy.jewelry,sold,82,35,6,"GoDaddy.com, LLC",11/12/2015 16:23,11/12/2026 16:23
 d2124082-1244-47be-a057-c93f902b4f14,energy.juegos,available,82,35,6,,,
 773d5019-91bb-4ac4-a081-8386685cf47f,energy.kaufen,available,82,35,6,,,
 4a4386fa-2593-4c77-b980-fe7f43cf396c,energy.land,resell,82,35,6,Dynadot Inc,08/05/2022 13:15,08/05/2026 13:15
@@ -572,7 +573,7 @@ d0d5dcbb-4bb9-4e41-8142-670581a2c133,energy.mortgage,premium,82,35,6,,,
 d0c24bc1-d0c2-4c52-acad-fa0aafaaec30,energy.motorcycles,premium,82,35,6,,,
 003252c7-84a1-4251-97f1-8aee384df531,energy.mov,premium,82,35,6,,,
 9593d1f7-cd41-4900-9181-bb2ca6d2cfd8,energy.movie,available,82,35,6,,,
-31f21f41-b794-422c-90e1-82bd53dd903b,energy.mx,expiring,82,35,6,Registrar.eu,10/12/2022 00:00,10/12/2025 00:00
+31f21f41-b794-422c-90e1-82bd53dd903b,energy.mx,resell,82,35,6,Registrar.eu,10/12/2022 00:00,10/12/2026 00:00
 2a6d3c0f-74b0-4a9f-a599-b2e53c2a01b5,energy.name,premium,82,35,6,,,
 41efe486-e902-4f55-9cd5-9d72ebf3cf20,energy.navy,available,82,35,6,,,
 c2de6bc4-b53c-4d06-a2a4-cf57e613069f,energy.network,resell,82,35,6,"Go France Domains, LLC",10/12/2014 16:00,10/12/2026 16:00
@@ -618,6 +619,7 @@ f143c185-775d-49c7-b3dd-c550b05ace0d,energy.rich,available,82,35,6,,,
 5905889f-7b25-4f7e-8314-20a1e78644b1,energy.rodeo,premium,82,35,6,,,
 21ff7dbe-751b-4209-93b7-1b42278e9895,energy.rsvp,premium,82,35,6,,,
 e64319c9-89ab-4a6b-b2a9-01d1cbbd6c7b,energy.run,resell,82,35,6,"DNSPod, Inc.",30/05/2019 05:27,30/05/2026 05:27
+98bfb231-1550-49aa-b2bd-177e40c831a2,energy.ryukyu,premium,82,35,6,,,
 a8763719-4d20-4a69-9029-a8da90ecc344,energy.sale,premium,82,35,6,,,
 0f961efb-90b3-48bb-9a38-4a9a3451f170,energy.sarl,available,82,35,6,,,
 0d36a808-d4db-4f10-94f2-f1e9b7ed5d7e,energy.sbs,premium,82,35,6,,,
@@ -644,6 +646,7 @@ b7c82ade-0ebb-4186-aa14-0e489bd68aff,energy.soy,premium,82,35,6,,,
 ec34bf4a-d522-4e77-b4b9-8ea35c11cee4,energy.space,premium,82,35,6,,,
 ebcc1b0f-f187-44b7-8617-04126d71f830,energy.spot,premium,82,35,6,,,
 40e1b800-c294-4108-b2c6-938719200d8e,energy.srl,available,82,35,6,,,
+6db13872-a669-495d-ac2e-7404b9b0433a,energy.storage,expiring,82,35,6,"Go Daddy, LLC",08/01/2018 07:22,08/01/2026 23:59
 7d9900c1-7e1c-454d-89b4-76d2446524a4,energy.stream,premium,82,35,6,,,
 ba396f72-be24-4791-a282-75abc7847b85,energy.study,premium,82,35,6,,,
 2ef0f7b3-b6d7-42c1-84e9-7693774ecf80,energy.style,resell,82,35,6,"Sav.com, LLC",22/04/2023 08:57,22/04/2026 08:57
@@ -996,6 +999,3 @@ d84ea8a3-aa36-4a71-9755-bafee223fee2,naturalgas.jetzt,available,,7,11,,,
 d3067267-2366-4235-9e2d-b1cdf481bc92,naturalgas.jewelry,available,,7,11,,,
 8b89e3b5-1109-4456-abe9-5fc4c2664a98,naturalgas.juegos,available,,7,11,,,
 2b35c238-304f-4ebf-9651-18593155cd80,naturalgas.kaufen,available,,7,11,,,
-1f1a14d9-38e9-46f9-aa39-9e4d952ade15,naturalgas.kids,premium,,7,11,,,
-ac21ae8e-6751-4c7f-998a-a5eee3777a67,naturalgas.kim,available,,7,11,,,
-cd0fe073-7646-45d2-86f5-ba0ee29a9a82,naturalgas.kitchen,available,,7,11,,,
