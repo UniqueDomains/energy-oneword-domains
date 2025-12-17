@@ -1,4 +1,9 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
+17bfe614-ac12-408d-926a-e6ea44162db2,power.store,premium,98,28,5,,,
+221e964f-c045-4fe0-ab28-a97083ea97c4,power.stream,expired,98,28,5,"NameCheap, Inc.",04/12/2022 05:22,04/12/2025 05:22
+dea7794e-cf54-4235-b0e7-a8b9bd68e703,power.style,resell,98,28,5,united-domains GmbH,21/11/2023 11:19,21/11/2026 11:19
+d519fd63-e41d-4333-a051-d82a3c295c39,power.sucks,premium,98,28,5,,,
+5287183a-9256-433f-99a9-5a81ad1c1847,power.supplies,premium,98,28,5,,,
 211c7c0c-07ce-48a4-852c-b7512bb79ddd,power.support,premium,98,28,5,,,
 b7cbcfcf-b447-40f5-baf1-25df98fa9dbf,power.surf,premium,98,28,5,,,
 2e8158c7-8e05-4405-970a-db18bd25ae0b,power.surgery,premium,98,28,5,,,
@@ -347,11 +352,6 @@ b9b9dfda-91ba-4d49-b151-8297dc0c0f48,power.soy,premium,98,28,5,,,
 a12646fa-8557-4e33-82a5-680790aa6330,power.spot,premium,98,28,5,,,
 00808ddc-dedd-49f7-b57b-046c2a02ebaa,power.srl,available,98,28,5,,,
 a47f866d-7b2c-41f2-858b-816f27c172c1,power.storage,available,98,28,5,,,
-17bfe614-ac12-408d-926a-e6ea44162db2,power.store,premium,98,28,5,,,
-221e964f-c045-4fe0-ab28-a97083ea97c4,power.stream,expired,98,28,5,"NameCheap, Inc.",04/12/2022 05:22,04/12/2025 05:22
-dea7794e-cf54-4235-b0e7-a8b9bd68e703,power.style,resell,98,28,5,united-domains GmbH,21/11/2023 11:19,21/11/2026 11:19
-d519fd63-e41d-4333-a051-d82a3c295c39,power.sucks,premium,98,28,5,,,
-5287183a-9256-433f-99a9-5a81ad1c1847,power.supplies,premium,98,28,5,,,
 b0cc7e1f-11c3-4f97-897e-4c4b06d8f2e6,electricity.at,sold,80,80,11,DomainQuadrat Marketing GmbH ( https://nic.at/registrar/581 ),,
 969d017f-911f-488f-bc52-d88418fbed3c,electricity.cloud,premium,80,80,11,,,
 44f4698d-d4b2-401b-a4e3-ae4f39df8c3f,electricity.dev,premium,80,80,11,,,
