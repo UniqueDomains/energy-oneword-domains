@@ -1,10 +1,10 @@
-# Available .ENERGY One-Word Domains (8,374)
+# Available .ENERGY One-Word Domains (8,377)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C378%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C374%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C377%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .energy one-word domains from Uniq
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,378 rows · **Live catalog:** 8,374 domains
+**Public extract:** 8,378 rows · **Live catalog:** 8,377 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/energy`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
-| cozy.energy     | available | $21.99    | $170.99       | 110            | 37     | 4      | name.com                |
-| tour.energy     | resell    | $155.98   | —             | 72             | 35     | 4      | GoDaddy.com, LLC        |
-| game.energy     | premium   | $128.70   | $128.70       | 120            | 49     | 4      | namecheap               |
-| like.energy     | available | $21.99    | $170.99       | 84             | 36     | 4      | name.com                |
-| fiber.energy    | resell    | $155.98   | —             | 78             | 29     | 5      | GoDaddy.com, LLC        |
-| travel.energy   | premium   | $1,040    | $1,040        | 115            | 48     | 6      | namecheap               |
-| some.energy     | available | $21.99    | $170.99       | 80             | 36     | 4      | name.com                |
-| selfless.energy | resell    | $21.99    | $170.99       | 70             | 11     | 8      | Unstoppable Domains Inc |
-| auto.energy     | premium   | $1,040    | $1,040        | 68             | 47     | 4      | namecheap               |
-| short.energy    | available | $21.99    | $170.99       | 76             | 36     | 5      | name.com                |
-| animal.energy   | resell    | —         | —             | 92             | 98     | 6      | Sav.com, LLC            |
-| elite.energy    | premium   | $1,000    | $1,000        | 90             | 43     | 5      | name.com                |
-| resume.energy   | available | $21.99    | $170.99       | 98             | 35     | 6      | name.com                |
-| ancient.energy  | resell    | —         | —             | 92             | 98     | 7      | NameCheap, Inc.         |
-| custom.energy   | premium   | $250      | $250          | 110            | 39     | 6      | name.com                |
-| rank.energy     | available | $21.99    | $170.99       | 70             | 35     | 4      | name.com                |
-| wake.energy     | resell    | —         | —             | 72             | 98     | 4      | NameCheap, Inc.         |
-| direct.energy   | premium   | $1,000    | $1,000        | 104            | 38     | 6      | name.com                |
-| cute.energy     | available | $21.99    | $170.99       | 82             | 34     | 4      | name.com                |
-| discover.energy | resell    | —         | —             | 66             | 75     | 8      | Sav.com, LLC            |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| cozy.energy     | available | $21.99    | $170.99       | 110            | 37     | 4      | name.com                                                  |
+| tour.energy     | resell    | $155.98   | —             | 72             | 35     | 4      | GoDaddy.com, LLC                                          |
+| game.energy     | premium   | $128.70   | $128.70       | 120            | 49     | 4      | namecheap                                                 |
+| like.energy     | available | $21.99    | $170.99       | 84             | 36     | 4      | name.com                                                  |
+| fiber.energy    | resell    | $155.98   | —             | 78             | 29     | 5      | GoDaddy.com, LLC                                          |
+| travel.energy   | premium   | $1,040    | $1,040        | 115            | 48     | 6      | namecheap                                                 |
+| some.energy     | available | $21.99    | $170.99       | 80             | 36     | 4      | name.com                                                  |
+| selfless.energy | resell    | $21.99    | $170.99       | 70             | 10     | 8      | Unstoppable Domains Inc                                   |
+| auto.energy     | premium   | $1,040    | $1,040        | 68             | 47     | 4      | namecheap                                                 |
+| short.energy    | available | $21.99    | $170.99       | 76             | 36     | 5      | name.com                                                  |
+| animal.energy   | resell    | —         | —             | 92             | 98     | 6      | Sav.com, LLC                                              |
+| elite.energy    | premium   | $1,000    | $1,000        | 90             | 43     | 5      | name.com                                                  |
+| resume.energy   | available | $21.99    | $170.99       | 98             | 35     | 6      | name.com                                                  |
+| wake.energy     | resell    | —         | —             | 72             | 98     | 4      | NameCheap, Inc.                                           |
+| custom.energy   | premium   | $250      | $250          | 110            | 39     | 6      | name.com                                                  |
+| rank.energy     | available | $21.99    | $170.99       | 70             | 35     | 4      | name.com                                                  |
+| discover.energy | resell    | —         | —             | 66             | 75     | 8      | Sav.com, LLC                                              |
+| direct.energy   | premium   | $1,000    | $1,000        | 104            | 38     | 6      | name.com                                                  |
+| cute.energy     | available | $21.99    | $170.99       | 82             | 34     | 4      | name.com                                                  |
+| boss.energy     | resell    | —         | —             | 76             | 73     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,378-row public sample | 8,374 live domains                               |
+| 8,378-row public sample | 8,377 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ENERGY One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ENERGY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
