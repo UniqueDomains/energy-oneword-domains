@@ -228,6 +228,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 16dd4361-26c3-487a-840b-f7c274397bb0,redevelopment.energy,available,21.99,,62,4,13,name.com,,
 16de12bf-92c3-44b1-b6c6-16d5970df6ef,leavetochance.energy,available,21.99,,64,1,15,name.com,,
 17278a3d-c712-40d5-a8f9-19f337c0fa8d,justplainfolks.energy,available,21.99,,64,1,16,name.com,,
+1728f942-1d55-4f5d-82f3-66aa22b4099d,always.energy,resell,,,80,31,6,"Spaceship, Inc.",24/04/2026 17:56,24/04/2027 17:56
 172c3567-19e7-4e8e-bbeb-e372a936c45a,finalsalary.energy,available,21.99,,66,1,12,name.com,,
 17436a65-0711-4ab3-bdd8-8195465f10a1,QandA.energy,available,155.98,,80,10,7,namecheap,,
 174b5f69-852f-4d28-a263-da9bb7c796cf,makesout.energy,available,21.99,,56,1,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5a9125a0-8364-44d3-9f73-3ecae34c5ce9,softsell.energy,available,21.99,,72,3,9,name.com,,
 5a9913bb-8aee-49cf-89d5-847c95c8d643,electricaltape.energy,available,21.99,,64,1,15,name.com,,
 5a9cf17b-a858-4e6d-9e8e-3bc91c225834,sanded.energy,available,21.99,,66,1,6,name.com,,
-5aafe701-9f16-437c-ad0a-1f37aefc2655,bedamned.energy,available,21.99,,38,1,9,name.com,,

@@ -1,10 +1,10 @@
-# Available .ENERGY One-Word Domains (11,279)
+# Available .ENERGY One-Word Domains (11,282)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C279%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C282%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .energy one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,279 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,282 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,279 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,282 domains
 
 **Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/energy`  
@@ -73,17 +73,17 @@ print(df.head())
 | William.energy     | available | $155.98   | —             | 74             | 31     | 7      | namecheap                                                 |
 | jobs.energy        | resell    | —         | —             | 79             | 42     | 4      | Porkbun LLC                                               |
 | photos.energy      | available | $21.99    | —             | 54             | 28     | 6      | name.com                                                  |
-| SanDiego.energy    | resell    | —         | —             | 74             | 29     | 9      | GoDaddy.com, LLC                                          |
+| always.energy      | resell    | —         | —             | 80             | 31     | 6      | Spaceship, Inc.                                           |
 | traders.energy     | available | $21.99    | —             | 60             | 26     | 7      | name.com                                                  |
-| generated.energy   | resell    | —         | —             | 54             | 28     | 9      | Spaceship, Inc.                                           |
+| SanDiego.energy    | resell    | —         | —             | 74             | 29     | 9      | GoDaddy.com, LLC                                          |
 | Keith.energy       | available | $155.98   | —             | 66             | 25     | 5      | namecheap                                                 |
-| solarenergy.energy | resell    | —         | —             | 88             | 16     | 12     | Porkbun LLC                                               |
+| generated.energy   | resell    | —         | —             | 54             | 28     | 9      | Spaceship, Inc.                                           |
 | drops.energy       | available | $21.99    | —             | 52             | 25     | 5      | name.com                                                  |
-| sunburst.energy    | resell    | —         | —             | 80             | 15     | 8      | NameCheap, Inc.                                           |
+| solarenergy.energy | resell    | —         | —             | 88             | 16     | 12     | Porkbun LLC                                               |
 | pops.energy        | available | $21.99    | —             | 74             | 24     | 4      | name.com                                                  |
+| sunburst.energy    | resell    | —         | —             | 80             | 15     | 8      | NameCheap, Inc.                                           |
 | chem.energy        | available | $21.99    | —             | 74             | 24     | 4      | name.com                                                  |
 | comics.energy      | available | $21.99    | —             | 68             | 24     | 6      | name.com                                                  |
-| boats.energy       | available | $21.99    | —             | 52             | 24     | 5      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,279 live domains                              |
+| 1,000-row public sample | 11,282 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
