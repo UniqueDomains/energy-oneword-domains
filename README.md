@@ -1,10 +1,10 @@
-# Available .ENERGY One-Word Domains (11,283)
+# Available .ENERGY One-Word Domains (11,286)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C283%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C286%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .energy one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,283 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,286 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,283 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,286 domains · **Median ask:** $34.27 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-03  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/energy`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| stories.energy     | available | $21.99    | —             | 58             | 36     | 7      | name.com                                                  |
-| core.energy        | resell    | —         | —             | 68             | 50     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| solarpower.energy  | premium   | $138.60   | $138.60       | 84             | 15     | 11     | namecheap                                                 |
-| payments.energy    | available | $21.99    | —             | 58             | 33     | 8      | name.com                                                  |
-| Media.energy       | resell    | —         | —             | 60             | 46     | 5      | Dynadot Inc                                               |
-| LongBeach.energy   | premium   | $138.60   | $138.60       | 62             | 11     | 10     | namecheap                                                 |
-| William.energy     | available | $155.98   | —             | 74             | 31     | 7      | namecheap                                                 |
-| jobs.energy        | resell    | —         | —             | 79             | 42     | 4      | Porkbun LLC                                               |
-| photos.energy      | available | $21.99    | —             | 54             | 28     | 6      | name.com                                                  |
-| always.energy      | resell    | —         | —             | 80             | 31     | 6      | Spaceship, Inc.                                           |
-| traders.energy     | available | $21.99    | —             | 60             | 26     | 7      | name.com                                                  |
-| SanDiego.energy    | resell    | —         | —             | 74             | 29     | 9      | GoDaddy.com, LLC                                          |
-| Keith.energy       | available | $155.98   | —             | 66             | 25     | 5      | namecheap                                                 |
-| generated.energy   | resell    | —         | —             | 54             | 28     | 9      | Spaceship, Inc.                                           |
-| drops.energy       | available | $21.99    | —             | 52             | 25     | 5      | name.com                                                  |
-| solarenergy.energy | resell    | —         | —             | 88             | 16     | 12     | Porkbun LLC                                               |
-| pops.energy        | available | $21.99    | —             | 74             | 24     | 4      | name.com                                                  |
-| sunburst.energy    | resell    | —         | —             | 80             | 15     | 8      | NameCheap, Inc.                                           |
-| chem.energy        | available | $21.99    | —             | 74             | 24     | 4      | name.com                                                  |
-| comics.energy      | available | $21.99    | —             | 68             | 24     | 6      | name.com                                                  |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| Acup.energy       | available | $155.98   | —             | 80             | 5      | 5      | namecheap                                                 |
+| girls.energy      | available | $21.99    | —             | 83             | 23     | 5      | name.com                                                  |
+| finals.energy     | available | $21.99    | —             | 80             | 7      | 6      | name.com                                                  |
+| edamame.energy    | available | $21.99    | —             | 80             | 9      | 7      | name.com                                                  |
+| playon.energy     | available | $21.99    | —             | 80             | 14     | 7      | name.com                                                  |
+| QandA.energy      | available | $155.98   | —             | 80             | 10     | 7      | namecheap                                                 |
+| hangon.energy     | available | $21.99    | —             | 82             | 6      | 7      | name.com                                                  |
+| pierogi.energy    | available | $21.99    | —             | 82             | 7      | 7      | name.com                                                  |
+| stories.energy    | available | $21.99    | —             | 58             | 36     | 7      | name.com                                                  |
+| core.energy       | resell    | —         | —             | 68             | 50     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| solarpower.energy | premium   | $138.60   | $138.60       | 84             | 15     | 11     | namecheap                                                 |
+| payments.energy   | available | $21.99    | —             | 58             | 33     | 8      | name.com                                                  |
+| Media.energy      | resell    | —         | —             | 60             | 46     | 5      | Dynadot Inc                                               |
+| LongBeach.energy  | premium   | $138.60   | $138.60       | 62             | 11     | 10     | namecheap                                                 |
+| William.energy    | available | $155.98   | —             | 74             | 31     | 7      | namecheap                                                 |
+| jobs.energy       | resell    | —         | —             | 79             | 42     | 4      | Porkbun LLC                                               |
+| photos.energy     | available | $21.99    | —             | 54             | 28     | 6      | name.com                                                  |
+| always.energy     | resell    | —         | —             | 80             | 31     | 6      | Spaceship, Inc.                                           |
+| traders.energy    | available | $21.99    | —             | 60             | 26     | 7      | name.com                                                  |
+| SanDiego.energy   | resell    | —         | —             | 74             | 29     | 9      | GoDaddy.com, LLC                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,283 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,286 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely focused on one-word .energy domains. The names span dictionary words, short invented terms, and broader consumer words such as girls.energy, jewels.energy, forces.energy, and getup.energy. For founders, the main question is whether the word is memorable, easy to say, and credible with the .energy ending. For investors, the key test is whether the combination has clear resale logic at the current ask. With a median ask of 34.27, pricing starts low, but selection quality will vary sharply. Give extra weight to word clarity, commercial relevance to energy, and possible trademark friction in terms like Trex.energy.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Favor words that read naturally with .energy
+- Check trademark exposure before judging value
+- Low ask does not guarantee strong resale demand
+- Short, clear words usually make better shortlists
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ENERGY One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ENERGY One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

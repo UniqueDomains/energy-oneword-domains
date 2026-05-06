@@ -87,6 +87,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 086f9037-d94e-4abf-a39b-52d2f3fd97a7,keeptrack.energy,available,21.99,,76,8,10,name.com,,
 087d3bde-ac26-41c3-a13e-36dea3ff36ff,LunarNewYear.energy,available,155.98,,72,3,14,namecheap,,
 0887d080-09c5-486e-975b-97e6ffbfe82b,Ihavediabetes.energy,available,155.98,,50,2,15,namecheap,,
+08c8ad32-71ed-46d3-9919-54451aa2f340,deadline.energy,resell,,,76,14,8,"GoDaddy.com, LLC",21/04/2025 22:54,21/04/2027 22:54
 08ca21f8-c1de-41e1-a0f6-896bfd37b96b,partwith.energy,available,21.99,,68,1,9,name.com,,
 08f27c51-813f-4077-8096-53f65e72aec5,survived.energy,available,21.99,,54,5,8,name.com,,
 0904bd1d-9aa7-44bd-8e06-8ae9dfe668c4,coffeepots.energy,available,21.99,,62,2,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5a8affd1-ee7e-4c39-a1fe-c06dc4502cac,chickenliver.energy,available,21.99,,64,1,13,name.com,,
 5a9125a0-8364-44d3-9f73-3ecae34c5ce9,softsell.energy,available,21.99,,72,3,9,name.com,,
 5a9913bb-8aee-49cf-89d5-847c95c8d643,electricaltape.energy,available,21.99,,64,1,15,name.com,,
-5a9cf17b-a858-4e6d-9e8e-3bc91c225834,sanded.energy,available,21.99,,66,1,6,name.com,,
