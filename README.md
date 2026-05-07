@@ -1,29 +1,29 @@
-# 10,265 Energy Keyword Domains (10,265)
+# Available .ENERGY One-Word Domains (11,286)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C265%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C286%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-This selection contains 10,265 domain names tied to the keyword “energy” across 505 TLDs. Updated daily. Median ask is $2,189, so comparison usually comes down to extension fit, renewal exposure, and whether the phrase is specific enough to be memorable and commercially usable.
+Daily-updated public extract of available and resale .energy one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,265 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,286 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,265 domains · **Median ask:** $2,189.25 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,286 domains · **Median ask:** $34.27 · **High-demand under $2,500:** 0
 
 **Last updated:** 2026-05-06  
-**Canonical page:** `https://unique.domains/domains/Energy?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*energy`  
+**Canonical page:** `https://unique.domains/domains/tld/energy`  
 **Best for:** founders, investors, studios
 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/Energy?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*energy&utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/tld/energy?utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./energy.csv">CSV</a> / <a href="./energy.json">JSON</a>
   · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
@@ -31,15 +31,15 @@ This selection contains 10,265 domain names tied to the keyword “energy” acr
 
 ---
 
-➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/Energy?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*energy&github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/Energy?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*energy&github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=top_start_project)  
+➡️ **Investors:** [Create a Radar from this .ENERGY search](https://unique.domains/domains/tld/energy?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this .ENERGY search](https://unique.domains/domains/tld/energy?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=top_api_docs)
 
 ---
 
 ## 📦 What this repository contains
 
-This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/Energy?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*energy`.
+This repository is the public extract for Unique Domains' .ENERGY one-word domain catalog.
 
 ### Files
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| --------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| electricity.barcelona | available | $38.98     | —             | 84             | 16     | 11     | namecheap        |
-| power.voting          | available | $1,448     | —             | 98             | 63     | 5      | namecheap        |
-| power.charity         | resell    | $37.98     | —             | 98             | 63     | 5      | Porkbun LLC      |
-| power.zip             | premium   | $1,298.70  | $1,298.70     | 98             | 63     | 5      | namecheap        |
-| power.vana            | available | $2,498     | —             | 98             | 63     | 5      | namecheap        |
-| power.bz              | resell    | $26.98     | —             | 98             | 63     | 5      | Porkbun LLC      |
-| power.yachts          | premium   | $845       | $15.73        | 98             | 63     | 5      | namecheap        |
-| power.tickets         | available | $568       | —             | 98             | 63     | 5      | namecheap        |
-| energy.foundation     | resell    | $260       | $260          | 82             | 46     | 6      | Porkbun LLC      |
-| power.wine            | premium   | $128.70    | $128.70       | 98             | 63     | 5      | namecheap        |
-| power.theatre         | available | $620       | —             | 98             | 63     | 5      | namecheap        |
-| energy.me             | resell    | $5,750     | $27.99        | 82             | 43     | 6      | GoDaddy.com, LLC |
-| power.wiki            | premium   | $325       | $325          | 98             | 63     | 5      | namecheap        |
-| power.storage         | available | $858       | —             | 98             | 63     | 5      | namecheap        |
-| energy.luxe           | resell    | $37,060.64 | —             | 78             | 43     | 6      | Dynadot Inc      |
-| power.website         | premium   | $650       | $1,300        | 98             | 63     | 5      | namecheap        |
-| power.security        | available | $2,950     | —             | 98             | 63     | 5      | namecheap        |
-| electricity.pro       | resell    | $810.75    | $35.99        | 80             | 16     | 11     | Sav.com, LLC - 9 |
-| power.webcam          | premium   | $650       | $84.50        | 98             | 63     | 5      | namecheap        |
-| power.protection      | available | $2,950     | —             | 98             | 63     | 5      | namecheap        |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| Acup.energy       | available | $155.98   | —             | 80             | 5      | 5      | namecheap                                                 |
+| girls.energy      | available | $21.99    | —             | 83             | 23     | 5      | name.com                                                  |
+| finals.energy     | available | $21.99    | —             | 80             | 7      | 6      | name.com                                                  |
+| edamame.energy    | available | $21.99    | —             | 80             | 9      | 7      | name.com                                                  |
+| playon.energy     | available | $21.99    | —             | 80             | 14     | 7      | name.com                                                  |
+| QandA.energy      | available | $155.98   | —             | 80             | 10     | 7      | namecheap                                                 |
+| hangon.energy     | available | $21.99    | —             | 82             | 6      | 7      | name.com                                                  |
+| pierogi.energy    | available | $21.99    | —             | 82             | 7      | 7      | name.com                                                  |
+| stories.energy    | available | $21.99    | —             | 58             | 36     | 7      | name.com                                                  |
+| core.energy       | resell    | —         | —             | 68             | 50     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| solarpower.energy | premium   | $138.60   | $138.60       | 84             | 15     | 11     | namecheap                                                 |
+| payments.energy   | available | $21.99    | —             | 58             | 33     | 8      | name.com                                                  |
+| Media.energy      | resell    | —         | —             | 60             | 46     | 5      | Dynadot Inc                                               |
+| LongBeach.energy  | premium   | $138.60   | $138.60       | 62             | 11     | 10     | namecheap                                                 |
+| William.energy    | available | $155.98   | —             | 74             | 31     | 7      | namecheap                                                 |
+| jobs.energy       | resell    | —         | —             | 79             | 42     | 4      | Porkbun LLC                                               |
+| photos.energy     | available | $21.99    | —             | 54             | 28     | 6      | name.com                                                  |
+| always.energy     | resell    | —         | —             | 80             | 31     | 6      | Spaceship, Inc.                                           |
+| traders.energy    | available | $21.99    | —             | 60             | 26     | 7      | name.com                                                  |
+| SanDiego.energy   | resell    | —         | —             | 74             | 29     | 9      | GoDaddy.com, LLC                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,265 live domains                        |
+| 1,000-row public sample | 11,286 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -101,7 +101,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/Energy?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*energy&github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/Energy?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*energy&github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/tld/energy?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/tld/energy?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -120,12 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is centered on domains connected to the keyword “energy,” including direct terms and more specific variants such as solarpower.academy, solarpower.ag, and solarpower.apartments. The breadth is wide: 10,265 names spread across 505 TLDs. That makes extension choice a primary filter, not a minor detail. When comparing these domains, start with whether the keyword and TLD match the intended market. Then check asking price against the median ask of $2,189 and weigh likely renewal burden, especially on less familiar extensions. Favor names that are clear, easy to repeat aloud, and narrow enough to signal a real commercial use case.
+This set is entirely focused on one-word .energy domains. The names span dictionary words, short invented terms, and broader consumer words such as girls.energy, jewels.energy, forces.energy, and getup.energy. For founders, the main question is whether the word is memorable, easy to say, and credible with the .energy ending. For investors, the key test is whether the combination has clear resale logic at the current ask. With a median ask of 34.27, pricing starts low, but selection quality will vary sharply. Give extra weight to word clarity, commercial relevance to energy, and possible trademark friction in terms like Trex.energy.
 
-- 10,265 energy-related domains across 505 TLDs
-- Median ask is $2,189 across this selection
-- Match the TLD to the exact energy use case
-- Check renewal risk on niche or specialty extensions
+- Favor words that read naturally with .energy
+- Check trademark exposure before judging value
+- Low ask does not guarantee strong resale demand
+- Short, clear words usually make better shortlists
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,14 +142,14 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *10,265 Energy Keyword Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ENERGY One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 
 ## 🔗 Related links
 
-- [Live search](https://unique.domains/domains/Energy?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*energy&utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=top_open_search)
+- [Live .ENERGY page](https://unique.domains/domains/tld/energy?utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_energy_oneword_domains&utm_content=top_api_docs)
