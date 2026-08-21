@@ -120,7 +120,7 @@ aa37e9dc-6c4a-4a02-b498-7925b00f0b64,basically.energy,available,21.99,,medium,lo
 a17dd219-c6cd-4e72-94c3-e569b6ece858,allmetal.energy,available,5.98,155.98,low,low,9,namecheap,,
 8f2f2ffe-3515-451c-91e1-7a2a84f7159f,expect.energy,available,21.99,,high,low,6,name.com,,
 c093375e-9d16-4341-b463-29758cba67d1,pubquiz.energy,available,21.99,,low,low,8,name.com,,
-e464e603-16a9-4392-a62c-08cfa57e35cd,goodbye.energy,available,21.99,,high,low,8,name.com,,
+e464e603-16a9-4392-a62c-08cfa57e35cd,goodbye.energy,available,5.98,155.98,medium,low,8,namecheap,,
 7ec095b9-a48b-4410-9c2e-1859e7a9f1a5,sixtyfive.energy,available,5.98,155.98,low,low,10,namecheap,,
 d106488c-8dcd-4535-a835-e37d54e5590c,according.energy,available,5.98,155.98,low,low,9,namecheap,,
 d3640ad7-0950-49ff-bc55-b8339d2aed27,thenandnow.energy,available,21.99,,low,low,12,name.com,,
@@ -662,7 +662,7 @@ d8526b0d-930d-44c4-8b52-5e5a01fc2fb8,life.energy,resell,,,high,medium,4,Porkbun 
 a27f12da-feb3-47e3-af5a-ca94af05f1e6,airpollution.energy,available,21.99,,medium,low,13,name.com,,
 98283e4c-f088-42aa-80e0-5739a475eecb,implied.energy,available,21.99,,high,low,7,name.com,,
 64ef10f6-3899-4a35-b59a-bf6ba606564b,atlantic.energy,resell,,,medium,low,8,Dynadot Inc,11/05/2025 15:15,11/05/2027 15:15
-bff7cad8-ffdd-4c7f-806f-515309246076,production.energy,resell,21.99,,high,low,10,"Spaceship, Inc.",24/04/2026 17:56,24/04/2027 17:56
+bff7cad8-ffdd-4c7f-806f-515309246076,production.energy,resell,21.99,,medium,low,10,"Spaceship, Inc.",24/04/2026 17:56,24/04/2027 17:56
 36cc8f79-884f-42d0-94d1-1c5f908bf0fc,fake.energy,available,,,high,low,4,,,
 e81b749c-359d-4227-9534-877239221e95,award.energy,available,21.99,,high,low,5,name.com,,
 9f48657f-b0d3-41ff-bfa3-bf67d72948f0,discdrive.energy,available,21.99,,high,low,10,name.com,,
@@ -952,7 +952,7 @@ cd53a437-0b32-4acf-b10d-c8ad409ee6b2,UnitedKingdom.energy,available,,,low,low,14
 820599bf-fe6d-47c9-ae1b-5930af0636a8,identifier.energy,available,21.99,,high,low,10,name.com,,
 f67b4979-4e89-4afa-8af1-146dddef36b4,apoplectic.energy,available,5.98,155.98,low,low,10,namecheap,,
 211b6be5-f450-4530-b053-fb032ea5c748,wipeup.energy,available,21.99,,high,low,7,name.com,,
-f707b28b-f8d9-4540-aba1-d38f4b33f272,dessert.energy,available,21.99,,high,low,7,name.com,,
+f707b28b-f8d9-4540-aba1-d38f4b33f272,dessert.energy,available,5.98,155.98,medium,low,7,namecheap,,
 5e1dcc6e-9cfc-4063-98c1-602b85bf2e59,herbalmedicine.energy,available,21.99,,high,low,15,name.com,,
 985a0c7f-d8c6-419c-bb0f-a4a2e1afbf03,astomatal.energy,available,5.98,155.98,low,low,9,namecheap,,
 7d2d33f9-2559-49f4-bada-3c4ef011c49b,treatment.energy,available,21.99,,high,low,9,name.com,,
