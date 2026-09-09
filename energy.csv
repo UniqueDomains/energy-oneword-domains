@@ -51,7 +51,7 @@ a473913a-e565-440f-8166-a4af5d98d584,contingent.energy,available,21.99,170.99,hi
 ccc2e54c-7f59-4b05-a61c-8c51eb676846,groves.energy,available,21.99,,medium,low,6,name.com,,
 7ac166f6-9350-4e1d-8012-52acb3083590,howgoesthebattle.energy,available,21.99,,medium,low,19,name.com,,
 94d87a91-1134-4947-8d6a-c7b19e724541,facing.energy,available,21.99,,high,low,6,name.com,,
-8c552732-4254-4900-98f9-b28e3eb2441b,dough.energy,available,5.98,155.98,low,low,5,namecheap,,
+8c552732-4254-4900-98f9-b28e3eb2441b,dough.energy,available,5.98,155.98,medium,low,5,namecheap,,
 f1abd93c-63cb-4e5d-b4e0-a11dbbd3e4b1,soupy.energy,available,5.98,155.98,low,low,5,namecheap,,
 fcad954a-82c4-49f8-bcbe-1d4722901526,psychologist.energy,available,21.99,,medium,low,12,name.com,,
 ad239c97-6234-46c0-92b1-ff6f1adeac01,wintertime.energy,available,21.99,,medium,low,11,name.com,,
@@ -345,7 +345,7 @@ f200616b-1d80-4b06-9d69-7e1676f11afb,chesty.energy,available,5.98,155.98,low,low
 03516aae-4c83-4d3d-a63b-07d2396f887b,eightieth.energy,available,5.98,155.98,low,low,9,namecheap,,
 2b62bf03-a9aa-415e-9946-6583fa52ffe9,invincible.energy,available,21.99,,high,low,10,name.com,,
 432b56a3-247f-4e68-bbe1-5afdb4f56a22,proactive.energy,available,21.99,,high,low,9,name.com,,
-df525014-562b-42c7-8fee-645a829f183f,culture.energy,resell,,,high,medium,7,"NameCheap, Inc.",11/01/2026 04:46,11/01/2027 04:46
+df525014-562b-42c7-8fee-645a829f183f,culture.energy,resell,,,medium,medium,7,"NameCheap, Inc.",11/01/2026 04:46,11/01/2027 04:46
 e5789bc9-534f-441b-9ead-7a1115004fa3,clever.energy,resell,,,high,low,6,Porkbun LLC,29/03/2019 14:12,29/03/2027 14:12
 e9b0ec5c-5ee6-4e0d-829d-a575d0098c78,journalism.energy,available,21.99,,high,low,10,name.com,,
 61d3ff4d-fd7f-4ca3-bed0-67338b3247bd,monstrous.energy,available,5.98,155.98,low,low,9,namecheap,,
@@ -596,7 +596,7 @@ e7eaf94a-b11b-4acc-b36e-130abcd2e174,supersize.energy,available,21.99,,high,low,
 12d87b89-4f78-4669-87d6-08c5167d191a,fourteen.energy,available,21.99,170.99,high,low,8,name.com,,
 471e2487-dcca-41cf-9e1e-fdd3582a5b6d,flew.energy,available,21.99,,high,low,4,name.com,,
 d8b07aa7-889e-4124-9c04-61c241042dfc,apriori.energy,available,5.98,155.98,low,low,8,namecheap,,
-de1042e4-df87-4fa1-83c6-0a84d8108a9e,seafood.energy,available,21.99,,high,low,7,name.com,,
+de1042e4-df87-4fa1-83c6-0a84d8108a9e,seafood.energy,available,5.98,155.98,medium,low,7,namecheap,,
 8f419f2c-b9b6-4a63-a049-42d115c1423f,eightyone.energy,available,5.98,155.98,low,low,10,namecheap,,
 6bcd88a3-a426-4f0c-9a44-ee3bbaff3208,cell.energy,resell,,,high,low,4,"Sav.com, LLC - 26",22/09/2025 15:15,22/09/2026 15:15
 8f1e57cb-1c2a-4773-b22f-50655a3ea254,sidelong.energy,available,5.98,155.98,low,low,8,namecheap,,
