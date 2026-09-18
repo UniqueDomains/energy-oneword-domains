@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .energy one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,233 domains · **Median ask:** $14.70 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/energy`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| christmas.energy  | premium   | $500      | —             | high           | low    | 9      | name.com         |
 | aug.energy        | available | $5.98     | $155.98       | low            | low    | 3      | namecheap        |
 | fiber.energy      | resell    | $21.99    | —             | high           | low    | 5      | GoDaddy.com, LLC |
 | shy.energy        | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
@@ -84,6 +83,7 @@ print(df.head())
 | fix.energy        | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.  |
 | direct.energy     | premium   | $1,000    | $1,000        | high           | medium | 6      | name.com         |
 | His.energy        | available | $21.99    | —             | high           | low    | 3      | name.com         |
+| gas.energy        | resell    | —         | —             | high           | low    | 3      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ENERGY One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ENERGY One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
